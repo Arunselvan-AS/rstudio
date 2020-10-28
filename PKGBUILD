@@ -12,7 +12,7 @@ license=('APGL')
 depends=(r)
 makedepends=()
 arch=('x86_64')
-source=(https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.3.1093-amd64.deb)
+source=(https://download1.rstudio.org/desktop/bionic/amd64/rstudio-${pkgver}-amd64.deb)
 sha256sums=('ff222177fa968f8cf82016e2086bab10ca4bcbe02a4c16f0ecb650151748cf1c')
 validpgpkeys=('QINBFnnkaUBEADF8Ue0CLeO08aGjx4O2BPbZAIEXeazLlD6JgdnUGqUrK+D2TxU
 aQ/y1Xz2MCChcyrgVE9Sbmlpp+Jk+lviGsFdcqy25IwfR+bD+o5me5awlK5f1llQ
